@@ -33,9 +33,9 @@ All you need is one link to become a pro in some area. Here is a list of all the
 * LaTex: http://www.latex-tutorial.com/tutorials/
 
 ## Others
-* Design: https://medium.com/hh-design/design-resources-5071be5f2e43#.jo41gfuf9
+* Design: https://medium.com/hh-design/design-resources-5071be5f2e43
 * Machine Learning: https://www.coursera.org/learn/machine-learning
 * Neural Networks: http://neuralnetworksanddeeplearning.com/index.html
-* Game Programming: http://www-cs-students.stanford.edu/~amitp/gameprog.html#paths
+* Game Programming: http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
 * Cryptography: https://www.crypto101.io
 * Hacking: https://www.hacksplaining.com
