@@ -10,6 +10,8 @@ All you need is one link to become a pro in some area. Here is a list of all the
 * ReactJS: http://courses.reactjsprogram.com/courses/reactjsfundamentals
 * AngularJS: https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/
 * NodeJS: https://www.codeschool.com/courses/real-time-web-with-node-js
+* jQuery: http://jqfundamentals.com
+* HTML & CSS (related to JS): http://learn.shayhowe.com/html-css/
 
 ## Languages
 * Scala: http://twitter.github.io/scala_school/
