@@ -4,7 +4,9 @@ All you need is one link to become a pro in some area. Here is a list of all the
 ## JavaScript
 * JavaScript: http://speakingjs.com/es5/index.html
 * ES6 (after you understand the fundamental JS materials): https://github.com/airbnb/javascript
-* Front-end development: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.kujacmc22
+* Front-end development
+	* Part 1: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
+	* Part 2: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
 * ReactJS: http://courses.reactjsprogram.com/courses/reactjsfundamentals
 * AngularJS: https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/
 * NodeJS: https://www.codeschool.com/courses/real-time-web-with-node-js
@@ -13,6 +15,9 @@ All you need is one link to become a pro in some area. Here is a list of all the
 * Scala: http://twitter.github.io/scala_school/
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
 * Ruby on Rails: https://www.railstutorial.org/book
+* C++ STL 
+	* Part 1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
+	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
 
 ## Programming
 * Interview: https://leetcode.com
