@@ -47,12 +47,13 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Design: https://medium.com/hh-design/design-resources-5071be5f2e43
 * Machine Learning: https://www.coursera.org/learn/machine-learning
 * Neural Networks: http://neuralnetworksanddeeplearning.com/index.html
+* DeepLearning: http://www.deeplearningbook.org/
 * Game Programming: http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
 * Cryptography: https://www.crypto101.io
 * Networking: http://beej.us/guide/bgnet/output/html/multipage/index.html
 * Data Mining: http://guidetodatamining.com/
 
 # Contribute to this list
-If you would like to contribute to this list, you can reach out to me in the following ways.
+If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
 * Email: vic.yeh at ucla dot edu
 * Twitter: @vicohyeh
