@@ -41,3 +41,8 @@ All you need is one link to become a pro in some area. Here is a list of all the
 * Game Programming: http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
 * Cryptography: https://www.crypto101.io
 * Hacking: https://www.hacksplaining.com
+
+# Contribute to this list
+If you would like to contribute to this list, you can reach out to me in the following ways.
+Email: vic.yeh at ucla dot edu
+Twitter: @vicohyeh
