@@ -15,6 +15,7 @@ All you need is one link to become a pro in some area. Here is a list of all the
 
 ## Languages
 * Scala: http://twitter.github.io/scala_school/
+* Kotlin: http://try.kotlinlang.org/
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
 * Ruby on Rails: https://www.railstutorial.org/book
 * C++ STL 
