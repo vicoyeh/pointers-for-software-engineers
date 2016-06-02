@@ -49,6 +49,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Neural Networks: http://neuralnetworksanddeeplearning.com/index.html
 * Game Programming: http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
 * Cryptography: https://www.crypto101.io
+* Regex: http://regexone.com
 
 # Contribute to this list
 If you would like to contribute to this list, you can reach out to me in the following ways.
