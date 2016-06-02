@@ -28,6 +28,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * C++ STL 
 	* Part 1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
 	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
+* Elixir: http://elixir-lang.org/getting-started
 
 ## Programming
 * Interview: https://leetcode.com
