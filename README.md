@@ -47,6 +47,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Design: https://medium.com/hh-design/design-resources-5071be5f2e43
 * Machine Learning: https://www.coursera.org/learn/machine-learning
 * Neural Networks: http://neuralnetworksanddeeplearning.com/index.html
+* DeepLearning: http://www.deeplearningbook.org/
 * Game Programming: http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
 * Cryptography: https://www.crypto101.io
 
