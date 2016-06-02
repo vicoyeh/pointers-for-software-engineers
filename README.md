@@ -3,7 +3,7 @@ All you need is one link to become a pro in some area. Here is a list of all the
 
 ## JavaScript
 * JavaScript: http://speakingjs.com/es5/index.html
-* ES6 (after you understand the fundamental JS materials): https://github.com/airbnb/javascript
+* ES6 (after you understand the fundamental JS materials): https://ponyfoo.com/articles/es6
 * Front-end development
 	* Part 1: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
 	* Part 2: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
