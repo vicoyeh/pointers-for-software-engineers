@@ -6,7 +6,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 
 ## JavaScript
 * JavaScript: http://speakingjs.com/es5/index.html
-* ES6 (after you understand the fundamental JS materials): https://github.com/airbnb/javascript
+* ES6 (after you understand the fundamental JS materials): https://ponyfoo.com/articles/es6
 * Front-end development
 	* Part 1: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
 	* Part 2: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
@@ -19,6 +19,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 
 ## Languages
 * Scala: http://twitter.github.io/scala_school/
+* Kotlin: http://try.kotlinlang.org/
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
 * Ruby on Rails: https://www.railstutorial.org/book
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
