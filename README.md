@@ -50,6 +50,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * DeepLearning: http://www.deeplearningbook.org/
 * Game Programming: http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
 * Cryptography: https://www.crypto101.io
+* Regex: http://regexone.com
 
 # Contribute to this list
 If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
