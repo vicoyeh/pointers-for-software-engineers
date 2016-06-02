@@ -52,6 +52,6 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Cryptography: https://www.crypto101.io
 
 # Contribute to this list
-If you would like to contribute to this list, you can reach out to me in the following ways.
+If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
 * Email: vic.yeh at ucla dot edu
 * Twitter: @vicohyeh
