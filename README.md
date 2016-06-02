@@ -45,4 +45,4 @@ All you need is one link to become a pro in some area. Here is a list of all the
 # Contribute to this list
 If you would like to contribute to this list, you can reach out to me in the following ways.
 * Email: vic.yeh at ucla dot edu
-* Twitter: (@vicohyeh)[https://twitter.com/vicohyeh]
+* Twitter: @vicohyeh
