@@ -35,6 +35,8 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 
 ## Mobile
 * iOS with Swift: https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
+* Xamarin: https://developer.xamarin.com/guides/cross-platform/getting_started/
+* Xamarin Forms: https://developer.xamarin.com/guides/xamarin-forms/getting-started/
 
 ## Tools
 * Git: http://marc.helbling.fr/2014/09/practical-git-introduction
