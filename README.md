@@ -42,6 +42,13 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * LaTex: http://www.latex-tutorial.com/tutorials/
 
+## Logical Reasoning and Discrete Maths
+* MIT Mathematics for Computer Science : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm
+* Coursera - Introduction to Logic : https://www.coursera.org/course/maththink
+* Coursera - Linear and Discrete Optimization : https://www.coursera.org/course/linearopt
+* Coursera - Probabilistic Graphical Models : https://www.coursera.org/course/pgm
+* Coursera - Game Theory : https://www.coursera.org/course/gametheory
+
 ## Others
 * Hacking: https://www.hacksplaining.com
 * Design: https://medium.com/hh-design/design-resources-5071be5f2e43
