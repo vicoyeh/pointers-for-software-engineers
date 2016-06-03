@@ -25,9 +25,12 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Ruby on Rails: https://www.railstutorial.org/book
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * Kotlin: http://kotlinlang.org/docs/reference/
-* C++ STL 
+* C++ STL
 	* Part 1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
 	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
+* Rust 
+	* https://doc.rust-lang.org/book/
+	* http://rustbyexample.com
 
 ## Programming
 * Interview: https://leetcode.com
