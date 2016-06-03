@@ -13,9 +13,10 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 	* Part 1: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
 	* Part 2: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
 * ReactJS: http://courses.reactjsprogram.com/courses/reactjsfundamentals
+* Redux: https://learnredux.com
+* React Native: https://facebook.github.io/react-native/docs/tutorial.html
 * AngularJS: https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/
 * NodeJS: https://www.codeschool.com/courses/real-time-web-with-node-js
-* React Native: https://facebook.github.io/react-native/docs/tutorial.html
 * jQuery: http://jqfundamentals.com
 * HTML & CSS (related to JS): http://learn.shayhowe.com/html-css/
 
@@ -47,7 +48,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Design: https://medium.com/hh-design/design-resources-5071be5f2e43
 * Machine Learning: https://www.coursera.org/learn/machine-learning
 * Neural Networks: http://neuralnetworksanddeeplearning.com/index.html
-* DeepLearning: http://www.deeplearningbook.org/
+* Deep Learning: http://www.deeplearningbook.org/
 * Game Programming: http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
 * Cryptography: https://www.crypto101.io
 * Networking: http://beej.us/guide/bgnet/output/html/multipage/index.html
