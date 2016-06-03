@@ -41,6 +41,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Text Editor: http://www.learnenough.com/text-editor-tutorial
 * Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * LaTex: http://www.latex-tutorial.com/tutorials/
+* Vim: http://learnvimscriptthehardway.stevelosh.com/
 
 ## Others
 * Hacking: https://www.hacksplaining.com
