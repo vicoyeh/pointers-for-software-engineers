@@ -27,9 +27,13 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Rust: https://doc.rust-lang.org/book/
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * Kotlin: http://kotlinlang.org/docs/reference/
+* PHP: http://www.phptherightway.com/
 * C++ STL
 	* Part 1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
 	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
+* Python Flask:
+	* https://exploreflask.com/en/latest/
+	* http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 ## Programming
 * Interview: https://leetcode.com
@@ -51,7 +55,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Machine Learning: https://www.coursera.org/learn/machine-learning
 * Neural Networks: http://neuralnetworksanddeeplearning.com/index.html
 * Deep Learning: http://www.deeplearningbook.org/
-* Game Programming: http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
+* Game Programming: http://www-cs-students.stanford.edu/~amitp/gameprog.html
 * Cryptography: https://www.crypto101.io
 * Networking: http://beej.us/guide/bgnet/output/html/multipage/index.html
 * Data Mining: http://guidetodatamining.com/
