@@ -20,24 +20,24 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * jQuery: http://jqfundamentals.com
 * HTML & CSS (related to JS): http://learn.shayhowe.com/html-css/
 
+## Frameworks
+* Ruby on Rails: https://www.railstutorial.org/book
+* Python Flask: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
 ## Languages
 * Scala: http://twitter.github.io/scala_school/
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
-* Ruby on Rails: https://www.railstutorial.org/book
 * Rust: https://doc.rust-lang.org/book/
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * Kotlin: http://kotlinlang.org/docs/reference/
 * PHP: http://www.phptherightway.com/
-* C++ STL
-	* Part 1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
-	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
-* Python Flask:
-	* https://exploreflask.com/en/latest/
-	* http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 ## Programming
 * Interview: https://leetcode.com
 * ICPC: http://www.stanford.edu/class/cs97si/
+* C++ STL
+	* Part 1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
+	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
 
 ## Mobile
 * iOS with Swift: https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961
