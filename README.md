@@ -13,7 +13,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 	* Part 1: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
 	* Part 2: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
 * ReactJS: http://courses.reactjsprogram.com/courses/reactjsfundamentals
-* Redux: https://learnredux.com
+* Redux (after knowing ReactJS): https://learnredux.com
 * React Native: https://facebook.github.io/react-native/docs/tutorial.html
 * AngularJS: https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/
 * NodeJS: https://www.codeschool.com/courses/real-time-web-with-node-js
@@ -24,14 +24,12 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Scala: http://twitter.github.io/scala_school/
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
 * Ruby on Rails: https://www.railstutorial.org/book
+* Rust: https://doc.rust-lang.org/book/
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * Kotlin: http://kotlinlang.org/docs/reference/
 * C++ STL
 	* Part 1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
 	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
-* Rust 
-	* https://doc.rust-lang.org/book/
-	* http://rustbyexample.com
 
 ## Programming
 * Interview: https://leetcode.com
