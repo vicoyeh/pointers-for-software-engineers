@@ -13,28 +13,34 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 	* Part 1: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
 	* Part 2: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
 * ReactJS: http://courses.reactjsprogram.com/courses/reactjsfundamentals
+* Redux (after knowing ReactJS): https://learnredux.com
+* React Native: https://facebook.github.io/react-native/docs/tutorial.html
 * AngularJS: https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/
 * NodeJS: https://www.codeschool.com/courses/real-time-web-with-node-js
-* React Native: https://facebook.github.io/react-native/docs/tutorial.html
 * jQuery: http://jqfundamentals.com
 * HTML & CSS (related to JS): http://learn.shayhowe.com/html-css/
+
+## Frameworks
+* Ruby on Rails: https://www.railstutorial.org/book
+* Python Flask: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 ## Languages
 * Scala: http://twitter.github.io/scala_school/
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
-* Ruby on Rails: https://www.railstutorial.org/book
+* Rust: https://doc.rust-lang.org/book/
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * Kotlin: http://kotlinlang.org/docs/reference/
-* C++ STL 
-	* Part 1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
-	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
+* PHP: http://www.phptherightway.com/
 
 ## Programming
 * Interview: https://leetcode.com
 * ICPC: http://www.stanford.edu/class/cs97si/
+* C++ STL
+	* Part 1: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/
+	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
 
 ## Mobile
-* iOS with Swift: https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
+* iOS with Swift: https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961
 * Xamarin: https://developer.xamarin.com/guides/cross-platform/getting_started/
 * Xamarin Forms: https://developer.xamarin.com/guides/xamarin-forms/getting-started/
 
@@ -43,14 +49,15 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Text Editor: http://www.learnenough.com/text-editor-tutorial
 * Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * LaTex: http://www.latex-tutorial.com/tutorials/
+* Vimscript: http://learnvimscriptthehardway.stevelosh.com/
 
 ## Others
 * Hacking: https://www.hacksplaining.com
 * Design: https://medium.com/hh-design/design-resources-5071be5f2e43
 * Machine Learning: https://www.coursera.org/learn/machine-learning
 * Neural Networks: http://neuralnetworksanddeeplearning.com/index.html
-* DeepLearning: http://www.deeplearningbook.org/
-* Game Programming: http://www-cs-students.stanford.edu/%7Eamitp/gameprog.html
+* Deep Learning: http://www.deeplearningbook.org/
+* Game Programming: http://www-cs-students.stanford.edu/~amitp/gameprog.html
 * Cryptography: https://www.crypto101.io
 * Networking: http://beej.us/guide/bgnet/output/html/multipage/index.html
 * Data Mining: http://guidetodatamining.com/
