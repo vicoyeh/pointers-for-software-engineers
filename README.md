@@ -29,8 +29,9 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
 * Rust: https://doc.rust-lang.org/book/
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
-* Kotlin: http://kotlinlang.org/docs/reference/
 * PHP: http://www.phptherightway.com/
+* Kotlin: http://kotlinlang.org/docs/reference/
+* Elixir: http://elixir-lang.org/getting-started
 
 ## Programming
 * Interview: https://leetcode.com
