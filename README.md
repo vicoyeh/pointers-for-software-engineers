@@ -41,6 +41,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 
 ## Mobile
 * iOS with Swift: https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961
+* Android with Java: https://developer.android.com/training/index.html
 
 ## Tools
 * Git: http://marc.helbling.fr/2014/09/practical-git-introduction
@@ -49,6 +50,10 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * LaTex: http://www.latex-tutorial.com/tutorials/
 * Vimscript: http://learnvimscriptthehardway.stevelosh.com/
 * Bash: http://steve-parker.org/sh/sh.shtml
+
+## Reference
+* Mozilla Developer Network: https://developer.mozilla.org/en-US/
+
 
 ## Others
 * Hacking: https://www.hacksplaining.com
