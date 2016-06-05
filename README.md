@@ -51,6 +51,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * LaTex: http://www.latex-tutorial.com/tutorials/
 * Vimscript: http://learnvimscriptthehardway.stevelosh.com/
 * Bash: http://steve-parker.org/sh/sh.shtml
+* Docker: https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i
 
 ## Others
 * Hacking: https://www.hacksplaining.com
