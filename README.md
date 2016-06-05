@@ -62,7 +62,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Cryptography: https://www.crypto101.io
 * Networking: http://beej.us/guide/bgnet/output/html/multipage/index.html
 * Data Mining: http://guidetodatamining.com/
-* Linux: https://web.archive.org/web/20160224020724/https://nixsrv.com/llthw
+* GNU/Linux: https://web.archive.org/web/20160224020724/https://nixsrv.com/llthw
 * Design Patterns: https://sourcemaking.com/design_patterns
 
 # Contribute to this list
