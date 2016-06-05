@@ -59,6 +59,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Cryptography: https://www.crypto101.io
 * Networking: http://beej.us/guide/bgnet/output/html/multipage/index.html
 * Data Mining: http://guidetodatamining.com/
+* Design Patterns https://sourcemaking.com/design_patterns
 
 # Contribute to this list
 If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
