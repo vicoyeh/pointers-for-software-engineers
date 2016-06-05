@@ -30,7 +30,6 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Rust: https://doc.rust-lang.org/book/
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * PHP: http://www.phptherightway.com/
-* Kotlin: http://kotlinlang.org/docs/reference/
 * Elixir: http://elixir-lang.org/getting-started
 
 ## Programming
