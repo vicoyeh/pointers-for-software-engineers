@@ -41,6 +41,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 
 ## Mobile
 * iOS with Swift: https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961
+* Android: https://www.udacity.com/course/developing-android-apps--ud853
 
 ## Tools
 * Git: http://marc.helbling.fr/2014/09/practical-git-introduction
