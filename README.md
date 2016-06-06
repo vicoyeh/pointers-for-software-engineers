@@ -31,7 +31,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * PHP: http://www.phptherightway.com/
 * Elixir: http://elixir-lang.org/getting-started
-
+* Python: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/ 
 ## Programming
 * Interview: https://leetcode.com
 * ICPC: http://www.stanford.edu/class/cs97si/
