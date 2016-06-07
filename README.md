@@ -33,6 +33,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * PHP: http://www.phptherightway.com/
 * Elixir: http://elixir-lang.org/getting-started
+* Clojure: http://www.4clojure.com/
 
 ## Programming
 * Interview: https://leetcode.com
@@ -44,6 +45,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 ## Mobile
 * iOS with Swift: https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961
 * Android: https://www.udacity.com/course/developing-android-apps--ud853
+* Android App Development (Stanford CS193a): http://web.stanford.edu/class/cs193a/videos.shtml
 
 ## Tools
 * Git: http://marc.helbling.fr/2014/09/practical-git-introduction
