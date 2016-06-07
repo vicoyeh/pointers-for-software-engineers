@@ -26,6 +26,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Python Django: http://www.tangowithdjango.com/
 
 ## Languages
+* Julia: http://docs.julialang.org/en/latest/
 * Scala: http://twitter.github.io/scala_school/
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
 * Rust: https://doc.rust-lang.org/book/
