@@ -1,5 +1,7 @@
 # One Click to Be Pro
-All you need is one link to become a pro in some area. Here is a list of all the best resources (you might not find elsewhere?) to help you get started in mastering a subject. Enjoy! Also, let me know if you are interested in contributing to the list.
+A list of the best resources to help you become a pro.
+
+Of course, it takes more than one click to truly become a pro. However, a good link is a great starting point to become one. The whole point of the title and the repo is to encourage people to learn new technologies. We filtered the abundant information from the Internet into this list that contains the best resources for each topic.
 
 ## Meta Learning
 The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
@@ -64,8 +66,12 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Data Mining: http://guidetodatamining.com/
 * Linux: https://web.archive.org/web/20160224020724/https://nixsrv.com/llthw
 * Design Patterns: https://sourcemaking.com/design_patterns
+* Data Visualization: http://alignedleft.com/tutorials/d3
 
-# Contribute to this list
-If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
-* Email: vic.yeh at ucla dot edu
-* Twitter: @vicohyeh
+#FAQ
+- **How is this repo different from [awesome](https://github.com/sindresorhus/awesome)?**
+	This repo is maintained as a list of one-hit KO of topics.
+- **How can I contribute?**
+	If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
+	* Email: vic.yeh at ucla dot edu
+	* Twitter: [@vicohyeh](https://twitter.com/vicohyeh)
