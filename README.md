@@ -17,10 +17,10 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 	* Part 1: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
 	* Part 2: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
 * ReactJS: http://courses.reactjsprogram.com/courses/reactjsfundamentals
-* Angular 2: http://ngcourse.rangle.io
 * Redux (after knowing ReactJS): https://learnredux.com
 * React Native: https://facebook.github.io/react-native/docs/tutorial.html
 * AngularJS: https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/
+	* Angular 2: http://ngcourse.rangle.io
 * NodeJS: https://www.codeschool.com/courses/real-time-web-with-node-js
 * jQuery: http://jqfundamentals.com
 * HTML & CSS (related to JS): http://learn.shayhowe.com/html-css/
