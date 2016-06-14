@@ -1,4 +1,6 @@
 # One Click to Be Pro
+
+[![Join the chat at https://gitter.im/vic317yeh/One-Click-to-Be-Pro](https://badges.gitter.im/vic317yeh/One-Click-to-Be-Pro.svg)](https://gitter.im/vic317yeh/One-Click-to-Be-Pro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 All you need is one link to become a pro in some area. Here is a list of all the best resources (you might not find elsewhere?) to help you get started in mastering a subject. Enjoy! Also, let me know if you are interested in contributing to the list.
 
 ## Meta Learning
