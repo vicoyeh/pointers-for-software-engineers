@@ -39,6 +39,9 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * PHP: http://www.phptherightway.com/
 * Elixir: http://elixir-lang.org/getting-started
 
+## Libraries
+* SDL2: http://lazyfoo.net/tutorials/SDL/
+
 ## Programming
 * Interview: https://leetcode.com
 * ICPC: http://www.stanford.edu/class/cs97si/
