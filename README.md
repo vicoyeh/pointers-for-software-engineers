@@ -73,9 +73,12 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Data Visualization: http://alignedleft.com/tutorials/d3
 
 #FAQ
-- **How is this repo different from [awesome](https://github.com/sindresorhus/awesome)?**
-	This repo is maintained as a list of one-hit KO of topics.
-- **How can I contribute?**
-	If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
-	* Email: vic.yeh at ucla dot edu
-	* Twitter: [@vicohyeh](https://twitter.com/vicohyeh)
+**How is this repo different from [awesome](https://github.com/sindresorhus/awesome)?**
+
+This repo is maintained as a list of one-hit KO of topics.
+
+**How can I contribute?**
+	
+If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
+* Email: vic.yeh at ucla dot edu
+* Twitter: [@vicohyeh](https://twitter.com/vicohyeh)
