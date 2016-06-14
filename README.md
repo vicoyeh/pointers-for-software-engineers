@@ -40,7 +40,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Julia: http://docs.julialang.org/en/latest/
 * Elixir: http://elixir-lang.org/getting-started
 
-## Programming
+## Algorithms
 * Interview: https://leetcode.com
 * ICPC: http://www.stanford.edu/class/cs97si/
 * C++ STL
@@ -58,7 +58,9 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * LaTex: http://www.latex-tutorial.com/tutorials/
 * Vimscript: http://learnvimscriptthehardway.stevelosh.com/
 * Bash: http://steve-parker.org/sh/sh.shtml
-* Docker: https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i
+* Docker
+	* Part 1: https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i
+	* Part 2: https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-ii
 
 ## Others
 * Hacking: https://www.hacksplaining.com
