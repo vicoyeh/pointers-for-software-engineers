@@ -3,6 +3,8 @@ A list of the best resources to help you become a pro.
 
 Of course, it takes more than one click to truly become a pro. However, a good link is a great starting point to become one. The whole point of the title and the repo is to encourage people to learn new technologies. We filtered the abundant information from the Internet into this list that contains the best resources for each topic.
 
+[![Join the chat at https://gitter.im/vic317yeh/One-Click-to-Be-Pro](https://badges.gitter.im/vic317yeh/One-Click-to-Be-Pro.svg)](https://gitter.im/vic317yeh/One-Click-to-Be-Pro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Meta Learning
 The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 
