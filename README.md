@@ -39,6 +39,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * PHP: http://www.phptherightway.com/
 * Julia: http://docs.julialang.org/en/latest/
 * Elixir: http://elixir-lang.org/getting-started
+* Haskell: http://learnyouahaskell.com/
 
 ## Algorithms
 * Interview: https://leetcode.com
