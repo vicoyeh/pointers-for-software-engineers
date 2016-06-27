@@ -31,16 +31,17 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Python Django: http://www.tangowithdjango.com/
 
 ## Languages
-* Python: http://pymbook.readthedocs.io/en/latest/index.html
-* Scala: http://twitter.github.io/scala_school/
+* Clojure : http://www.braveclojure.com/clojure-for-the-brave-and-true/
+* Dyalog APL: https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf
+* Elixir: http://elixir-lang.org/getting-started
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
-* Rust: https://doc.rust-lang.org/book/
+* Haskell: http://learnyouahaskell.com/
+* Julia: http://docs.julialang.org/en/latest/
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * PHP: http://www.phptherightway.com/
-* Julia: http://docs.julialang.org/en/latest/
-* Elixir: http://elixir-lang.org/getting-started
-* Haskell: http://learnyouahaskell.com/
-* Clojure : http://www.braveclojure.com/clojure-for-the-brave-and-true/
+* Python: http://pymbook.readthedocs.io/en/latest/index.html
+* Rust: https://doc.rust-lang.org/book/
+* Scala: http://twitter.github.io/scala_school/
 
 ## Algorithms
 * Interview: https://leetcode.com
