@@ -29,6 +29,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Ruby on Rails: https://www.railstutorial.org/book
 * Python Flask: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 * Python Django: http://www.tangowithdjango.com/
+* Laravel: https://laracasts.com/
 
 ## Languages
 * Python: http://pymbook.readthedocs.io/en/latest/index.html
