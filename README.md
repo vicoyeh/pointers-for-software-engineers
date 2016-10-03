@@ -50,7 +50,9 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
 
 ## Mobile
-* iOS with Swift: https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961
+* iOS with Swift
+	* https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961
+	* https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585
 * Android: https://www.udacity.com/course/developing-android-apps--ud853
 
 ## Tools
