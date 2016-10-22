@@ -41,6 +41,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Elixir: http://elixir-lang.org/getting-started
 * Haskell: http://learnyouahaskell.com/
 * Clojure : http://www.braveclojure.com/clojure-for-the-brave-and-true/
+* Ruby: http://rubylearning.com/satishtalim/tutorial.html
 
 ## Algorithms
 * Interview: https://leetcode.com
@@ -84,7 +85,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 This repo is maintained as a list of one-hit KO of topics.
 
 **How can I contribute?**
-	
+
 If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
 * Email: vic.yeh at ucla dot edu
 * Twitter: [@vicohyeh](https://twitter.com/vicohyeh)
