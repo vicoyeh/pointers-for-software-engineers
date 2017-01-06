@@ -55,6 +55,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 
 ## Tools
 * Git: http://marc.helbling.fr/2014/09/practical-git-introduction
+* Git for beginners: https://try.github.io/levels/1/challenges/1
 * Text Editor: http://www.learnenough.com/text-editor-tutorial
 * Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * LaTex: http://www.latex-tutorial.com/tutorials/
