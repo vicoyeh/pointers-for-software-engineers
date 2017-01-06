@@ -41,6 +41,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Elixir: http://elixir-lang.org/getting-started
 * Haskell: http://learnyouahaskell.com/
 * Clojure : http://www.braveclojure.com/clojure-for-the-brave-and-true/
+* BASH: http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
 ## Algorithms
 * Interview: https://leetcode.com
