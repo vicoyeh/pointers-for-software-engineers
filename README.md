@@ -35,6 +35,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Scala: http://twitter.github.io/scala_school/
 * Go: https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html
 * Rust: https://doc.rust-lang.org/book/
+* Common Lisp: http://www.gigamonkeys.com/book/
 * Lua: http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/
 * PHP: http://www.phptherightway.com/
 * Julia: http://docs.julialang.org/en/latest/
