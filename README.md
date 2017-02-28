@@ -16,6 +16,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Front-end development
 	* Part 1: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
 	* Part 2: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
+	* Resources: https://enboard.co/frontend
 * ReactJS: http://courses.reactjsprogram.com/courses/reactjsfundamentals
 * Redux (after knowing ReactJS): https://learnredux.com
 * React Native: https://facebook.github.io/react-native/docs/tutorial.html
@@ -67,6 +68,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 ## Others
 * Hacking: https://www.hacksplaining.com
 * Design: https://medium.com/hh-design/design-resources-5071be5f2e43
+* Webdesign: https://enboard.co/webdesign
 * Machine Learning: https://www.coursera.org/learn/machine-learning
 * Neural Networks: http://neuralnetworksanddeeplearning.com/index.html
 * Deep Learning: http://www.deeplearningbook.org/
