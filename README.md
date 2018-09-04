@@ -50,7 +50,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 	* Part 2: https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/
 
 ## Mobile
-* iOS with Swift: https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961
+* iOS with Swift: https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316
 * Android: https://www.udacity.com/course/developing-android-apps--ud853
 
 ## Tools
@@ -84,7 +84,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 This repo is maintained as a list of one-hit KO of topics.
 
 **How can I contribute?**
-	
+
 If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
 * Email: vic.yeh at ucla dot edu
 * Twitter: [@vicohyeh](https://twitter.com/vicohyeh)
