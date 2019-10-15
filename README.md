@@ -77,6 +77,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Linux: https://web.archive.org/web/20160224020724/https://nixsrv.com/llthw
 * Design Patterns: https://sourcemaking.com/design_patterns
 * Data Visualization: http://alignedleft.com/tutorials/d3
+* Tensorflow: https://www.youtube.com/watch?v=sEciSlAClL8
 
 #FAQ
 **How is this repo different from [awesome](https://github.com/sindresorhus/awesome)?**
