@@ -78,7 +78,7 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 * Design Patterns: https://sourcemaking.com/design_patterns
 * Data Visualization: http://alignedleft.com/tutorials/d3
 
-#FAQ
+# FAQ
 **How is this repo different from [awesome](https://github.com/sindresorhus/awesome)?**
 
 This repo is maintained as a list of one-hit KO of topics.
