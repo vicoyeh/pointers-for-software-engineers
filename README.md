@@ -204,4 +204,5 @@ References are selected using the following order of criteria:
 _Pointers for Software Engineers_ is meant to be an open-source curriculum under continuous updates by the community. All contributions are welcome by simply creating a pull request for review.
 
 **May I modify or distribute this project?**
+
 This project is released under MIT License. See [here](https://github.com/vicoyeh/Pointers-for-Software-Engineers/blob/master/LICENSE) for more information.
