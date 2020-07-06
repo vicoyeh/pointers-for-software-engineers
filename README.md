@@ -1,4 +1,4 @@
-# Pointers for Software Engineers
+# Pointers for Software Engineers [![Build Status](https://travis-ci.org/vicoyeh/pointers-for-software-engineers.svg?branch=master)](https://travis-ci.org/vicoyeh/pointers-for-software-engineers.svg)
 
 _A curated list of topics to start learning software engineering_
 
