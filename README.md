@@ -85,6 +85,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Go: https://gobyexample.com
 - C++: https://www.learncpp.com
 - Lisp: http://www.gigamonkeys.com/book
+- Ruby: http://rubylearning.com/satishtalim/tutorial.html
 - Java: https://leanpub.com/aprimeronjava/read
 - Scala: http://twitter.github.io/scala_school
 - Rust: https://doc.rust-lang.org/book
@@ -110,6 +111,8 @@ If you are just starting, it is recommended to go through the fundamentals in or
 
 - Interview preparation: https://leetcode.com
 - Design patterns: https://sourcemaking.com/design_patterns
+- Linux: https://linuxjourney.com
+- Bash: http://www.tldp.org/LDP/Bash-Beginners-Guide/html
 - Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - LaTex: https://www.latex-tutorial.com/tutorials
 - Algorithms: http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf
