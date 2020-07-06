@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.4
+before_script:
+  - gem install mdl
+script:
+  - mdl README.md
