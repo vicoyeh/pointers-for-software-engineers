@@ -10,9 +10,8 @@ This curriculum is divided into four major sections: fundamentals, advanced, tra
 
 If you are just starting, it is recommended to go through the fundamentals in order, then pick a subset of advanced topics to read at will. For the curious ones, use tracks and subjects as references when choosing career options that most interest you.
 
+## Table of Contents
 
-
-# Table of Contents
 1. Fundamentals
     - CS 101
     - Data Structures & Algorithms
@@ -25,7 +24,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
     - Compilers & Interpreters
     - Networking
     - Security
-    - Miscellaneous 
+    - Miscellaneous
 3. Tracks
     - Systems Engineering
     - Product Engineering
@@ -41,7 +40,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
     - Human-Computer Interaction
     - Theory
 
-# 1. Fundamentals
+## 1. Fundamentals
 
 ### CS 101
 
@@ -53,17 +52,16 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Course: https://www.coursera.org/learn/algorithms-part1
 - Book: https://livebook.manning.com/book/grokking-algorithms
 
-
 ### Operating Systems
+
 - Course: https://www.udacity.com/course/introduction-to-operating-systems--ud923
 - Book: http://pages.cs.wisc.edu/~remzi/OSTEP
 
-
 ### Shell, Git, editors, and more
+
 - Course: https://missing.csail.mit.edu
 
-
-# 2. Advanced
+## 2. Advanced
 
 ### Web Applications
 
@@ -73,14 +71,12 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Backend development: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 - Design: https://medium.com/hh-design/design-resources-5071be5f2e43
 
-
 ### Databases
 
 - SQL: https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql
 - SQL practice: https://pgexercises.com
 - NoSQL: https://www.openmymind.net/mongodb.pdf
 - Database systems: http://www.redbook.io
-
 
 ### Programming Languages
 
@@ -120,7 +116,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Competitive programming: http://www.stanford.edu/class/cs97si
 - Mathematical programming: https://projecteuler.net
 
-# 3. Tracks
+## 3. Tracks
 
 ### Systems Engineering
 
@@ -131,8 +127,8 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Distributed systems: https://github.com/aphyr/distsys-class
 - AWS: https://adayinthelifeof.nl//2020/05/20/aws.html
 
-
 ### Product Engineering
+
 - React: https://reactjs.org/tutorial/tutorial.html
 - React Native: https://facebook.github.io/react-native/docs/tutorial.html
 - API design: https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
@@ -164,7 +160,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Test design: http://dahlan.unimal.ac.id/files/ebooks/2004%20A%20Practitioner's%20Guide%20to%20Software%20Test%20Design_Good.pdf
 - Refactoring: http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf?lang=latxzf
 
-# 4. Subjects
+## 4. Subjects
 
 ### Artificial Intelligence
 
@@ -179,6 +175,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
 
 
 ### Bioinformatics
+
 - Computational biology: https://open.oregonstate.education/computationalbiology
 
 ### Cybersecurity
