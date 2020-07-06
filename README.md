@@ -173,7 +173,6 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Bitcoin: https://bitcoin.org/bitcoin.pdf
 - Crypto: https://a16z.com/2018/02/10/crypto-readings-resources
 
-
 ### Bioinformatics
 
 - Computational biology: https://open.oregonstate.education/computationalbiology
@@ -191,7 +190,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Academic paper review: https://blog.acolyer.org
 - Corporate research: https://research.google/research-areas
 
-# Appendix
+## Appendix
 
 **Why is a reference chosen over the others for a topic?**
 
