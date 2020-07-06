@@ -1,4 +1,5 @@
 # Pointers for Software Engineers
+
 _A curated list of topics to start learning software engineering_
 
 Pointers for Software Engineers is a complete open-source computer science curriculum, designed to cover the fundamentals and practical topics of software engineering most relevant to the industry today. Think of it as an alternative or supplement to college or bootcamp education. It aims to serve as a guidebook for beginners planning to make a career transition into software engineering, computer science students looking to expand their practical knowledge, and experienced engineers curious to seek references for other subject matters.
@@ -40,15 +41,15 @@ If you are just starting, it is recommended to go through the fundamentals in or
     - Human-Computer Interaction
     - Theory
 
-
-
 # 1. Fundamentals
+
 ### CS 101
+
 - Course: https://www.edx.org/course/cs50s-introduction-to-computer-science
 - Python: https://www.codecademy.com/learn/learn-python-3
 
-
 ### Data Structures & Algorithms
+
 - Course: https://www.coursera.org/learn/algorithms-part1
 - Book: https://livebook.manning.com/book/grokking-algorithms
 
@@ -63,7 +64,9 @@ If you are just starting, it is recommended to go through the fundamentals in or
 
 
 # 2. Advanced
+
 ### Web Applications
+
 - HTML & CSS: http://learn.shayhowe.com/html-css
 - jQuery: http://jqfundamentals.com
 - Frontend development: https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
@@ -72,6 +75,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
 
 
 ### Databases
+
 - SQL: https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql
 - SQL practice: https://pgexercises.com
 - NoSQL: https://www.openmymind.net/mongodb.pdf
@@ -79,6 +83,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
 
 
 ### Programming Languages
+
 - JavaScript: http://speakingjs.com/es5/index.html
 - Python: http://pymbook.readthedocs.io
 - Go: https://gobyexample.com
@@ -91,22 +96,22 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Haskell: http://learnyouahaskell.com
 - Clojure: http://www.braveclojure.com/clojure-for-the-brave-and-true
 
-
 ### Compilers & Interpreters
+
 - Compilers: https://www.amazon.co.uk/Compilers-Principles-Techniques-Alfred-Aho/dp/0201100886
 - Interpreters: http://craftinginterpreters.com/contents.html
 
-
 ### Networking
+
 - Network programming: http://beej.us/guide/bgnet/html
 
-
 ### Security
+
 - Cryptography: https://www.crypto101.io/
 - Network security: https://training.apnic.net/wp-content/uploads/sites/2/2016/12/TSEC01.pdf
 
-
 ### Miscellaneous
+
 - Interview preparation: https://leetcode.com
 - Design patterns: https://sourcemaking.com/design_patterns
 - Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
@@ -115,9 +120,10 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Competitive programming: http://www.stanford.edu/class/cs97si
 - Mathematical programming: https://projecteuler.net
 
-
 # 3. Tracks
+
 ### Systems Engineering
+
 - System design: https://github.com/donnemartin/system-design-primer
 - Site reliability: https://landing.google.com/sre/sre-book/toc/index.html
 - Data-intensive systems: https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
@@ -135,38 +141,39 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Ruby on Rails: https://www.railstutorial.org/book/beginning
 - Node: https://www.airpair.com/javascript/node-js-tutorial
 
-
 ### Machine Learning & Data Engineering
+
 - Machine learning: https://www.coursera.org/learn/machine-learning
 - Data mining: http://guidetodatamining.com
 - Data visualization: http://alignedleft.com/tutorials/d3
 - TensorFlow: https://www.tensorflow.org/tutorials
 - PyTorch: https://pytorch.org/tutorials
 
-
 ### Security Engineering
+
 - Security engineering: https://www.cl.cam.ac.uk/~rja14/book.html
 - Security checklist: https://www.sqreen.com/checklists/saas-cto-security-checklist
 
-
 ### Game Engineering
+
 - Game programming: http://www-cs-students.stanford.edu/~amitp/gameprog.html
 - Game design: http://dl.booktolearn.com/ebooks2/computer/gamedevelopment/9781449337933_designing_games_71f6.pdf
 
-
 ### QA Engineering
+
 - Test design: http://dahlan.unimal.ac.id/files/ebooks/2004%20A%20Practitioner's%20Guide%20to%20Software%20Test%20Design_Good.pdf
 - Refactoring: http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf?lang=latxzf
 
-
 # 4. Subjects
+
 ### Artificial Intelligence
+
 - Neural networks and deep learning: http://neuralnetworksanddeeplearning.com/index.html
 - Reinforcement learning: https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
 - OpenCV: https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv
 
-
 ### Blockchain
+
 - Bitcoin: https://bitcoin.org/bitcoin.pdf
 - Crypto: https://a16z.com/2018/02/10/crypto-readings-resources
 
@@ -174,19 +181,18 @@ If you are just starting, it is recommended to go through the fundamentals in or
 ### Bioinformatics
 - Computational biology: https://open.oregonstate.education/computationalbiology
 
-
 ### Cybersecurity
+
 - Digital defense: https://books.google.co.uk/books?id=UIvDCgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 
-
 ### Human-Computer Interaction
+
 - User interface: https://www.amazon.com/gp/product/0321537351/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321537351&linkCode=as2&tag=roblov-20
 
-
 ### Theory
+
 - Academic paper review: https://blog.acolyer.org
 - Corporate research: https://research.google/research-areas
-
 
 # Appendix
 
