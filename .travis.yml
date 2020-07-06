@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install mdl
 script:
-  - mdl -r ~MD013,~MD032,~MD034 README.md
+  - mdl -r ~MD013,~MD029,~MD032,~MD034,~MD036 README.md
