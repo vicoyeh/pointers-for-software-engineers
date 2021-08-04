@@ -32,6 +32,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
     - Security Engineering
     - Game Engineering
     - QA Engineering
+    - Performance Engineering
 4. Subjects
     - Artificial Intelligence
     - Blockchain
@@ -162,6 +163,9 @@ If you are just starting, it is recommended to go through the fundamentals in or
 
 - Test design: http://dahlan.unimal.ac.id/files/ebooks/2004%20A%20Practitioner's%20Guide%20to%20Software%20Test%20Design_Good.pdf
 - Refactoring: http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf?lang=latxzf
+
+### Performance Engineering
+- Perforamnce Engineering for Software Systems: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/
 
 ## 4. Subjects
 
