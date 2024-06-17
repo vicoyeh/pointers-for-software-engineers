@@ -147,6 +147,7 @@ If you are just starting, it is recommended to go through the fundamentals in or
 - Data visualization: http://alignedleft.com/tutorials/d3
 - TensorFlow: https://www.tensorflow.org/tutorials
 - PyTorch: https://pytorch.org/tutorials
+- Data Science and Machine learning: https://www.scaler.com/courses/data-science-machine-learning-course/
 
 ### Security Engineering
 
